@@ -38,7 +38,7 @@ of installing these two frameworks together.
   <summary>Ruby on Rails + React</summary>
   <ul>
     <li><a>https://rubyonrails.org/</a></li>
-    <li><a>https://rubyonrails.org/</a></li>
+    <li><a>https://react.dev/</a></li>
   </ul>
 </details>
 
